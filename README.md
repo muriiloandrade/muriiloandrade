@@ -20,19 +20,19 @@
   <a href="mailto:murilo@muriloandrade.dev" title="murilo@muriloandrade.dev">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="murilo@muriloandrade.dev" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/murilo--andrade/" title="Linkedin">
+  <a href="https://www.linkedin.com/in/murilo--andrade/" target="_blank" title="Linkedin">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://twitter.com/andrademuriilo" title="Twitter">
+  <a href="https://twitter.com/andrademuriilo" target="_blank" title="Twitter">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://instagram.com/murilo.dev" title="Twitter">
+  <a href="https://instagram.com/murilo.dev" target="_blank" title="Twitter">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://t.me/muriloandrade" title="Telegram">
+  <a href="https://t.me/muriloandrade" target="_blank" title="Telegram">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5571993239472&text=Hello!" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5571993239472&text=Hello!" target="_blank" title="WhatsApp">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
   </a>
 </p>
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=muriiloandrade&show_icons=true&theme=nord&count_private=true"/>
   </a>
 </p>
