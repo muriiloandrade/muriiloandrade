@@ -5,8 +5,6 @@
 <br />
 
 ## About me
-
-
 <p align="center">
   :adult: I'm a 22 yo software developer born and raised on Salvador, Bahia. <br />
   :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
@@ -26,7 +24,7 @@
   <a href="https://twitter.com/andrademuriilo" target="_blank" title="Twitter">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://instagram.com/murilo.dev" target="_blank" title="Twitter">
+  <a href="https://instagram.com/murilo.dev" target="_blank" title="Instagram">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://t.me/muriloandrade" target="_blank" title="Telegram">
