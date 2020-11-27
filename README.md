@@ -6,16 +6,14 @@
 
 ## About me
 
-<div align="center">
-  <p align="center">
-    :adult: I'm a 22 yo software developer born and raised on Salvador, Bahia. <br />
-    :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
-    :man_technologist: Currently working with .NET at <a href="http://www.imap.org.br/" title="IMAP">IMAP</a> and doing Node.js freelances. <br />
-    |                               :books: "To study" list:                              |
-    |:---:|
-    | React/Next.js \|  React Native \| GraphQL \| Microservices \| Tests \| DDD \| SOLID |
-  </p>
-</div>
+
+<p align="center">
+  :adult: I'm a 22 yo software developer born and raised on Salvador, Bahia. <br />
+  :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
+  :man_technologist: Currently working with .NET at <a href="http://www.imap.org.br/" title="IMAP">IMAP</a> and doing Node.js freelances. <br />
+  :books: "To study" list: React | Next.js |  React Native | GraphQL | Microservices | Tests | DDD | SOLID
+</p>
+
 
 ### - You can find me on:
 <p align="center">
