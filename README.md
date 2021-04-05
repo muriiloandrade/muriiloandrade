@@ -1,6 +1,7 @@
-<div align="center">
-  <h2 align="center">Hello there, I'm Murilo! :technologist:</h1>
-</div>
+<p align="center">
+  <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light' />
+  <h2 align="center">Hello there, I'm Murilo!</h1>
+</p>
 
 <br />
 
