@@ -7,10 +7,10 @@
 
 ## About me
 <p align="center">
-  :adult: I'm a 23 yo software developer born and raised on Salvador, Bahia. <br />
+  :adult: I'm a 24 yo software developer born and raised on Salvador, Bahia. <br />
   :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
-  :man_technologist: Currently working with Node.js, React and Python at <a href="https://www.stone.com.br/" title="Stone">Stone</a> and doing Node.js freelances. <br />
-  :books: "To study" list: React | Next.js |  React Native | GraphQL | Microservices | Tests | DDD | SOLID
+  :man_technologist: Currently working with Node.js, React and Python at <a href="https://www.stone.com.br/" title="Stone">Stone</a>.<br />
+  :books: "To study" list: Tests | DDD | SOLID | React | Next.js | GraphQL | Microservices
 </p>
 
 
@@ -50,17 +50,13 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/languages/typescript.svg" title="Typescript" alt="typescript" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" title="Node.js" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" title="Bootstrap" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/ionic.svg" title="Ionic" alt="ionic" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" title="jQuery" alt="jquery" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/materialize.svg" title="Materialize" alt="materialize" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/nuget.svg" title="Nuget" alt="nuget" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" title="AWS" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" title="npm" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" title="bash" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" title="docker" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/frameworks/mysql.svg" title="MySQL" alt="mysql" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/languages/mongodb.svg" title="MongoDB" alt="mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg" title="Android Studio" alt="android_studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" title="Visual Studio" alt="visual_studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
