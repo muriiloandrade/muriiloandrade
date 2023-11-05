@@ -7,10 +7,10 @@
 
 ## About me
 <p align="center">
-  :adult: I'm a 24 yo software developer born and raised on Salvador, Bahia. <br />
+  :adult: I'm a 25 yo software developer born and raised on Salvador, Bahia. <br />
   :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
   :man_technologist: Currently working with Node.js, React and Python at <a href="https://www.stone.com.br/" title="Stone">Stone</a>.<br />
-  :books: "To study" list: Tests | DDD | SOLID | React | Next.js | GraphQL | Microservices
+  :books: "Study" list: Tests | DDD | SOLID | Design System | Event Driven Architecture
 </p>
 
 
@@ -49,8 +49,6 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" title="Javascript" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/languages/typescript.svg" title="Typescript" alt="typescript" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" title="Node.js" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" title="Bootstrap" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" title="jQuery" alt="jquery" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" title="AWS" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" title="npm" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" title="bash" alt="bash" style="vertical-align:top; margin:4px">
