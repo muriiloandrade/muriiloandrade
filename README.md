@@ -7,10 +7,10 @@
 
 ## About me
 <p align="center">
-  :adult: I'm a 25 yo software developer born and raised on Salvador, Bahia. <br />
+  :adult: I'm a software enginner born and raised on Salvador, Bahia. <br />
   :man_student: Computer scientist from <a href="https://www.unifacs.br/" title="UNIFACS">UNIFACS.</a> <br />
   :man_technologist: Currently working with Node.js, React and Python at <a href="https://www.stone.com.br/" title="Stone">Stone</a>.<br />
-  :books: "Study" list: Tests | DDD | SOLID | Design System | Event Driven Architecture
+  :books: "Study" list: Tests | DDD | SOLID | System Design | Event Driven Architecture
 </p>
 
 
